@@ -205,6 +205,7 @@ public class LearnDocVec {
 				// out.syn1[c] += g * we.syn0[c];
 				//
 				// }
+				// 不改变预测的中间词的向量
 			}
 
 			// Learn weights input -> hidden
