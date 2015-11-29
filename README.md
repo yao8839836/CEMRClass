@@ -3,7 +3,7 @@ Traditional Chinese Medicine Clinical Records Classification
 
 #DataSet
 
-In data/ClinicalCases/
+Clinical records are in data/ClinicalCases/
 
 data/train_or_test.txt : indicating each record belongs to training set or test set.
 
