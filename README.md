@@ -5,6 +5,10 @@ Traditional Chinese Medicine Clinical Records Classification
 
 In data/ClinicalCases/
 
+data/train_or_test.txt : indicating each record belongs to training set or test set.
+
+data/label.txt : indicating each record's category label.
+
 #Require
 
 Java 7 or above (I use Java 8); Eclipse
