@@ -1,5 +1,9 @@
 # CEMRClass
-Traditional Chinese Medicine Clinical Records Classification, In IEEE BIBM 2016
+Traditional Chinese Medicine Clinical Records Classification, In IEEE BIBM 2016.
+
+The dataset and code of our paper:
+
+Yao, L., Zhang, Y., Wei, B., Li, Z., & Huang, X. (2016, December). Traditional Chinese medicine clinical records classification using knowledge-powered document embedding. In Bioinformatics and Biomedicine (BIBM), 2016 IEEE International Conference on (pp. 1926-1928). IEEE.
 
 # DataSet
 
