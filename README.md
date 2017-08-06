@@ -1,5 +1,4 @@
 # CEMRClass
-Traditional Chinese Medicine Clinical Records Classification, In IEEE BIBM 2016.
 
 The dataset and code of our paper:
 
