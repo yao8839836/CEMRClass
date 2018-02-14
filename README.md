@@ -16,9 +16,6 @@ data/label.txt : indicating each record's category label.
 
 Java 7 or above (I use Java 8); Eclipse
 
-
-
-
 # Usage
 
 1. Run src/test/RunESA.java to generate ESA file.
