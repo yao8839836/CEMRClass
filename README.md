@@ -6,6 +6,9 @@ Yao, L., Zhang, Y., Wei, B., Li, Z., & Huang, X. (2016, December). Traditional C
 
 # DataSet
 
+The Copyright of the dataset used in the paper belongs to [China Knowledge
+Centre for Engineering Sciences and Technology](http://zcy.ckcest.cn/tcm/). The dataset is for research use only.
+
 Clinical records are in data/ClinicalCases/
 
 data/train_or_test.txt : indicating each record belongs to training set or test set.
