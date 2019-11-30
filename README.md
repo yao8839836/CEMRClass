@@ -6,8 +6,8 @@ Yao, L., Zhang, Y., Wei, B., Li, Z., & Huang, X. (2016, December). Traditional C
 
 # DataSet
 
-The Copyright of the dataset used in the paper belongs to [China Knowledge
-Centre for Engineering Sciences and Technology](http://zcy.ckcest.cn/tcm/). The dataset is for research use only.
+The Copyright holder of the dataset is [China Knowledge
+Centre for Engineering Sciences and Technology](http://zcy.ckcest.cn/tcm/). The dataset is for research use only. Any commercial use, sale, or other monetization is prohibited.
 
 Clinical records are in data/ClinicalCases/
 
